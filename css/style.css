@@ -1,0 +1,141 @@
+.box{
+width:800px;
+height:370px;
+background-color: black;
+margin: 15%;
+margin-top:100px;
+}
+
+ /* .shape{
+  width: 50px;
+  height: 20px;
+  background-color: green;
+  position: absolute;
+  margin-top: 325px;
+  margin-left: 200px
+} */
+
+.player {
+  background-color: green;
+}
+
+.score{
+  width: 20px;
+  height:40px;
+  font-size: 20px;
+}
+
+
+ /* .move1{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 20px;
+  padding-right: 20px;
+  margin-left: 20px;
+}
+.move2{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 20px;
+  padding-right: 20px;
+  margin-left: 350px;
+}
+ .move3{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 20px;
+  padding-right: 20px;
+  margin-left: 650px;
+}
+.move4{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 70px;
+  padding-right: 20px;
+  margin-left: 20px;
+}
+.move5{
+  width: 400px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 70px;
+  padding-right: 20px;
+  margin-left: 200px;
+}
+.move6{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 70px;
+  padding-right: 20px;
+  margin-left: 650px;
+}
+.move7{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 125px;
+  padding-right: 20px;
+  margin-left: 350px;
+}
+.move8{
+  width: 400px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 185px;
+  padding-right: 20px;
+  margin-left: 20px
+}
+.move9{
+  width: 80px;
+  height:20px;
+  background-color: red;
+  position: absolute;
+  margin-top: 245px;
+  padding-right: 20px;
+  margin-left: 650px; */
+}
+table {
+  margin:0 auto;
+  border-radius:0px;
+}
+
+td {
+/* border: 1px solid blue; */
+  width: 600px;
+  height: 50px;
+  text-align: center;
+  font-size: 4em;
+}
+
+.wall {
+  background-color: red;
+}
+
+.bus{
+  background-color: yellow;
+}
+
+.sport-car{
+  background-color: red;
+}
+
+.train{
+  background-color: yellow;
+}
+
+.bike{
+  background-color: blue;
+}
